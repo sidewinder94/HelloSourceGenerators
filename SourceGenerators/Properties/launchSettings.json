@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SourceGenerators": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\HelloGeneratedWorld\\HelloGeneratedWorld.csproj"
+    }
+  }
+}
